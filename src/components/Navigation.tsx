@@ -54,7 +54,15 @@ const Navigation = () => {
             <Link to="/calculator" className="text-gray-700 dark:text-gray-300 hover:text-green-600 transition">Calculator</Link>
             <Link to="/diet-planner" className="text-gray-700 dark:text-gray-300 hover:text-green-600 transition">Diet</Link>
             <Link to="/workouts" className="text-gray-700 dark:text-gray-300 hover:text-green-600 transition">Workouts</Link>
+            <Link to="/progress" className="text-gray-700 dark:text-gray-300 hover:text-green-600 dark:hover:text-green-400 transition-colors">
+              Progress
+            </Link>
+            <Link to="/blog" className="text-gray-700 dark:text-gray-300 hover:text-green-600 dark:hover:text-green-400 transition-colors">
+              Blog
+            </Link>
+
           </div>
+
 
           <div className="hidden md:flex items-center space-x-4">
             <Button variant="ghost" size="icon" onClick={toggleTheme}>
