@@ -19,5 +19,7 @@ A modern, responsive fitness and health platform designed to help users track th
 - React Router for navigation
 - Tailwind CSS for styling
 - React Hook Form for form handling
--sqliite
--django backend
+- sqliite
+- django backend
+
+
