@@ -27,7 +27,7 @@ A modern, responsive fitness and health platform designed to help users track th
 
 ## Tech Stack
 
-- React 18+
+- React.js
 - TypeScript
 - React Router for navigation
 - Tailwind CSS for styling
